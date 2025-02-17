@@ -2,9 +2,12 @@
   "name": "todo-list",
   "private": true,
   "version": "0.0.0",
+  "homepage": " https://github.com/Shlok-Vertex/Todo-list.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy" : "npm run dev",
+    "deploy" : "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
