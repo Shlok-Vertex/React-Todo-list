@@ -1,4 +1,4 @@
-# Shlok List App
+# Shlok List App. 
 
 ![Shlok List App Screenshot](https://via.placeholder.com/800x400?text=Shlok+List+App+Screenshot) 
 *(Replace with actual screenshot of your app)*
